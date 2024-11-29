@@ -20,7 +20,7 @@ Demonstrates a method for hiding a binary file within an image by embedding its 
 
   - **file_with_embedded.jpg**: The image with the embedded file.
   
-    ![Image with Embedded File](./files/file_with_embedded.jpg)
+    ![Image with Embedded File](./files/file_with_embedded.png)
 
   - **result_when_N_is1.png**: Resulting image when N is 1 during embedding.
   
