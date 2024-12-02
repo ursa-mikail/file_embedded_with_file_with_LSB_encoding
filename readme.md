@@ -44,6 +44,10 @@ Demonstrates a method for hiding a binary file within an image by embedding its 
 
 2. **Embed Data into Image**: Use `file_embedded_with_file_with_LSB_encoding.py` to embed a text file into an image using LSB encoding. This script allows you to hide data within an image file without significantly altering its appearance.
 
+3. **Embed Image into Image**: Use `embedding_hiding_image_within_image_with_lsb_encoding.py` to embed a image file into an image using LSB encoding. 
+
+![embedding_hiding_image_within_image_with_lsb_encoding](embedding_hiding_image_within_image_with_lsb_encoding.png)
+
 ## Example
 
 To compare the images, run the following command:
